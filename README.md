@@ -7,6 +7,7 @@ git 常見功能介紹
 - branch : 開新的分支 
 - merge : 合併
 - fetch : 比對本機與遠端專案的差別，並且在本地端形成相對應的分支
+- 實際操作 `pull` 與 `fetch` 的差異性
 <br></br>
 - diff : 比對兩個 commit 之間的差異
 ---
