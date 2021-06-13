@@ -8,4 +8,4 @@ git 常見功能介紹
 - merge : 合併
 <br></br>
 - fetch : 比對本機與遠端專案的差別，並且在本地端形成相對應的分支
-- diff : 
+- diff : 比對兩個 commit 之間的差異
