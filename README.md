@@ -27,7 +27,7 @@
   - 在同一個分支下，回到先前的版本去修改，改完 commit 和 push，似乎只能暫存 ?
   >  - 解決方法 : 在暫存的地方，再建立新的 branch，然後 Push 上去
 - 點選右鍵
-<br>![image](https://github.com/Frank0321/desktop-tutorial/blob/master/sourcetree_png/%E4%B8%AD%E9%96%93branch%E5%8F%B3%E9%8D%B5.png)</br>
+<br>![image](https://github.com/Frank0321/GitHubTest/blob/master/sourcetree_png/%E4%B8%AD%E9%96%93branch%E5%8F%B3%E9%8D%B5.png)</br>
 > - Checkout : 切換到此分支 (需要注意目前分支有沒有 commit 的事情)
 > - Merge : 把點選到的分支跟你目前的作合併
 > - Rebase :
