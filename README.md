@@ -42,7 +42,7 @@
 - Commit : 
 - Pull : 從 Github 上拉下來，並 commit
 - Push : 推上 GitHub
-- Fetch : 從 Github 上拉下來，有差異會需要 
+- Fetch : 從 Github 上拉下來，有差異會需要處理 
 - Branch : 要先點選到預計要切出的分支，通常為 master ，在 branch
 - Merge :
 - Fetch 與 Pull 的差別 : Pull 會直接將此分支與 GitHub 上 Merge。Fetch 不會，則 
