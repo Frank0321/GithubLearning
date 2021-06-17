@@ -51,6 +51,7 @@
 ![image](https://github.com/Frank0321/GitHubTest/blob/master/sourcetree_png/%E5%B7%A6%E5%81%B4%E5%8A%9F%E8%83%BD.png)
 
 ## 注意事項
-
+1. README.md 會不定時更新
+2. pic 為圖片來源，勿刪
 > 
 
