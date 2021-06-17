@@ -2,7 +2,7 @@
 ![image](https://github.com/Frank0321/GitHubTest/blob/master/sourcetree_png/%E6%95%B4%E9%AB%94%E5%9C%96%E7%A4%BA.png)
 - 介紹 sourcetree 的功能
 - author : Frank
-- update : 200614
+- update : 200617
 ---
 ## 右上角的功能
 ![image](https://github.com/Frank0321/GitHubTest/blob/master/sourcetree_png/%E5%8F%B3%E4%B8%8A%E8%A7%92%E5%8A%9F%E8%83%BD.png)
@@ -45,10 +45,17 @@
 - Fetch : 從 Github 上拉下來，有差異會需要處理 
 - Branch : 要先點選到預計要切出的分支，通常為 master ，在 branch
 - Merge :
-- Fetch 與 Pull 的差別 : Pull 會直接將此分支與 GitHub 上 Merge。Fetch 不會，則 
+- Fetch 與 Pull 的差別 : 
+- - Pull 會直接將此分支與 GitHub 上 Merge 到當前的分支。
+- - Fetch 會直接將此分支與 GitHub 上 進行比較。 
 ---
 ## 左側功能
 ![image](https://github.com/Frank0321/GitHubTest/blob/master/sourcetree_png/%E5%B7%A6%E5%81%B4%E5%8A%9F%E8%83%BD.png)
+
+## Push 畫面
+![image](https://github.com/Frank0321/GitHubTest/blob/master/sourcetree_png/push%20%E7%9A%84%E7%95%AB%E9%9D%A2.png)
+再 Push 上去之前，要先確認 Push 是否為當前的分支
+
 
 ## 注意事項
 1. README.md 會不定時更新
