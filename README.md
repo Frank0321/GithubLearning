@@ -7,11 +7,11 @@
 ## 右上角的功能
 ![image](https://github.com/Frank0321/GitHubTest/blob/master/sourcetree_png/%E5%8F%B3%E4%B8%8A%E8%A7%92%E5%8A%9F%E8%83%BD.png)
 - Git-flow
-> - 不知道
+> - 
 - remote
 > - 在 github 顯示
 - terminal
-> - 不知道
+> - 
 - explorer
 > - 在本地端顯示
 - settings
